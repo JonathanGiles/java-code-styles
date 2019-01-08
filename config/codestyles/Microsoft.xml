@@ -1,0 +1,21 @@
+<code_scheme name="Microsoft" version="173">
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value />
+    </option>
+    <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
+    <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+    <option name="JD_KEEP_EMPTY_PARAMETER" value="false" />
+    <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
+    <option name="JD_KEEP_EMPTY_RETURN" value="false" />
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="SPACE_WITHIN_EMPTY_ARRAY_INITIALIZER_BRACES" value="true" />
+    <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
+    <indentOptions>
+      <option name="USE_RELATIVE_INDENTS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
